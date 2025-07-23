@@ -1,1 +1,0 @@
-# thaiburma-nu-deploy
